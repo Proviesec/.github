@@ -10,7 +10,7 @@
 
 <a href="https://proviesec.medium.com/"><h2>Proviesec Medium Articles - read it</h2></a>
 <br>
-Disclaimer: DONT BE A JERK!
+## Disclaimer: DONT BE A JERK!
 Needless to mention, please use this tool very very carefully. The authors won't be responsible for any consequences.
 <!--
 
