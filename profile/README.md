@@ -8,7 +8,7 @@
 
 <a href="https://www.buymeacoffee.com/proviesec" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
-<a href="https://proviesec.medium.com/"><h2>Proviesec Security Medium Articles - read it</h2></a>
+<a href="https://proviesec.medium.com/"><h3>Proviesec Security Medium Articles - read it</h3></a>
 </br>
 ## Disclaimer: DONT BE A JERK!
 Needless to mention, please use this tool very very carefully. The authors won't be responsible for any consequences.
