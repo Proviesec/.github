@@ -5,6 +5,7 @@
 </a>
 
 <a href="https://www.buymeacoffee.com/proviesec" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://patreon.com/proviesec"><img src="https://user-images.githubusercontent.com/6010786/178968010-4d47859d-ef52-4d0e-85eb-549654f9ad65.jpg" alt="Buy Me A Coffee" height="80"></a>
 
 Read this: <a href="https://proviesec.medium.com/"><h3>Proviesec Security Medium Articles - read it</h3></a>
 ## Disclaimer: DONT BE A JERK!
