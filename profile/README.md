@@ -7,11 +7,12 @@
 <a href="https://www.buymeacoffee.com/proviesec" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 <a href="https://patreon.com/proviesec"><img src="https://user-images.githubusercontent.com/6010786/178968010-4d47859d-ef52-4d0e-85eb-549654f9ad65.jpg" alt="Buy Me A Coffee" height="80"></a>
 
-Read this, my Medium Blog Space: <a href="https://proviesec.medium.com/"><b>Proviesec Security Medium Articles - read it</b></a>
+Read this, my Medium Blog Space:👩‍💻<a href="https://proviesec.medium.com/"><b>Proviesec Security Medium Articles - read it</b></a>
 
-Twitter: https://twitter.com/proviesec
+Twitter: https://twitter.com/proviesec 🙋‍
 ## Disclaimer: DONT BE A JERK!
 Needless to mention, please use this tool very very carefully. The authors won't be responsible for any consequences.
+
 <!--
 
 **Here are some ideas to get you started:**
