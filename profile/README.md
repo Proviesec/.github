@@ -8,8 +8,6 @@
 
 Read this, my Medium Blog Space:👩‍💻<a href="https://proviesec.medium.com/"><b>Proviesec Security Medium Articles - read it</b></a>
 
-<a href="https://medium.com/@proviesec/membership"><b>Become a Proviesec Medium Member</b></a> 🥇
-
 Twitter: https://twitter.com/proviesec 🙋‍
 ## Disclaimer: DONT BE A JERK!
 Needless to mention, please use this tool very very carefully. The authors won't be responsible for any consequences.
