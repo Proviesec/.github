@@ -1,29 +1,27 @@
 <!-- ========================= -->
 <!--        proviesec          -->
 <!-- ========================= -->
+<table>
+  <tr>
+    <td>
+      <h1>proviesec 👋</h1>
+      <p><b>Bug Bounty • Offensive Security • Payloads & Tooling</b></p>
+      <p>
+        <a href="https://twitter.com/proviesec"><img src="https://img.shields.io/twitter/follow/proviesec?label=Follow&style=for-the-badge"></a>
+        <a href="https://proviesec.medium.com/"><img src="https://img.shields.io/badge/Medium-Articles-black?style=for-the-badge&logo=medium"></a>
+        <a href="https://www.buymeacoffee.com/proviesec"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-support-orange?style=for-the-badge&logo=buymeacoffee"></a>
+      </p>
+    </td>
+    <td align="right" width="140">
+      <a href="https://proviesec.org/">
+        <img src="https://avatars.githubusercontent.com/u/92156402?s=400&v=4" height="90" alt="proviesec logo" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<h1 align="center">proviesec 👋</h1>
-<p align="center">
-  Bug Bounty • Offensive Security • Payloads & Tooling
-</p>
+---
 
-<p align="center">
-  <a href="https://twitter.com/proviesec">
-    <img src="https://img.shields.io/twitter/follow/proviesec?label=Follow&style=for-the-badge">
-  </a>
-  <a href="https://proviesec.medium.com/">
-    <img src="https://img.shields.io/badge/Medium-Articles-black?style=for-the-badge&logo=medium">
-  </a>
-  <a href="https://www.buymeacoffee.com/proviesec">
-    <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-support-orange?style=for-the-badge&logo=buymeacoffee">
-  </a>
-</p>
-
-<p align="right">
-  <a href="https://proviesec.org/">
-    <img src="https://avatars.githubusercontent.com/u/92156402?s=400&v=4" height="80"/>
-  </a>
-</p>
 
 ---
 
