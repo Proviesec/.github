@@ -1,24 +1,73 @@
-## Hi there 👋 🙋‍ Welcome on the Github Page from proviesec
-[![Twitter](https://img.shields.io/twitter/follow/proviesec?label=Follow)](https://twitter.com/proviesec)
-<a href="https://proviesec.org/">
-    <img src="https://avatars.githubusercontent.com/u/92156402?s=400&u=7fe0dbb9085a37818ee8c2b061432a9a69cbff42&v=4" alt="Proviesec logo" title="Proviesec" align="right" height="60" />
-</a>
-<a href="https://www.buymeacoffee.com/proviesec" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-<a href="https://patreon.com/proviesec"><img src="https://user-images.githubusercontent.com/6010786/178968010-4d47859d-ef52-4d0e-85eb-549654f9ad65.jpg" alt="Buy Me A Coffee" height="80"></a>
+<!-- ========================= -->
+<!--        proviesec          -->
+<!-- ========================= -->
 
-Read this, my Medium Blog Space:👩‍💻<a href="https://proviesec.medium.com/"><b>Proviesec Security Medium Articles - read it</b></a>
+<h1 align="center">proviesec 👋</h1>
+<p align="center">
+  Bug Bounty • Offensive Security • Payloads & Tooling
+</p>
 
-Twitter: https://twitter.com/proviesec 🙋‍
-## Disclaimer: DONT BE A JERK!
-Needless to mention, please use this tool very very carefully. The authors won't be responsible for any consequences.
+<p align="center">
+  <a href="https://twitter.com/proviesec">
+    <img src="https://img.shields.io/twitter/follow/proviesec?label=Follow&style=for-the-badge">
+  </a>
+  <a href="https://proviesec.medium.com/">
+    <img src="https://img.shields.io/badge/Medium-Articles-black?style=for-the-badge&logo=medium">
+  </a>
+  <a href="https://www.buymeacoffee.com/proviesec">
+    <img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-support-orange?style=for-the-badge&logo=buymeacoffee">
+  </a>
+</p>
 
-<!--
+<p align="right">
+  <a href="https://proviesec.org/">
+    <img src="https://avatars.githubusercontent.com/u/92156402?s=400&v=4" height="80"/>
+  </a>
+</p>
 
-**Here are some ideas to get you started:**
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---
 
+## 👨‍💻 About
+
+Active in **Bug Bounty** and **Offensive Security**.  
+This GitHub contains **real-world tooling and payload lists** used during recon, fuzzing and exploitation.
+
+No theory — practical stuff only.
+
+---
+
+## 🚀 Pinned / Core Projects
+
+- **google-dorks**  
+  Useful Google Dorks for Web Security & Bug Bounty  
+  ⭐ 1.2k
+
+- **PSFuzz**  
+  Proviesec Fuzz Scanner – fast dir/path web scanner (Go)
+
+- **directory-files-payload-lists**  
+  Curated directory & file payload lists for scanning and fuzzing
+
+- **xss-payload-list**  
+  Practical XSS payloads for different contexts
+
+
+---
+
+## ⚠️ Disclaimer – DON’T BE A JERK
+
+For **authorized security testing and research only**.
+
+- Test only what you own or have permission for  
+- You are responsible for your actions  
+- No illegal usage
+
+---
+
+## 🌐 Links
+
+- Twitter/X: https://twitter.com/proviesec  
+- Medium: https://proviesec.medium.com/  
+- Website: https://proviesec.org/  
+
+⭐ If it helps you — star the repos.
